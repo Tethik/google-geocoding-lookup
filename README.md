@@ -10,3 +10,4 @@ Possible todos:
 * Reverse lookup (lng/lat -> address)
 * bash/bat script for running
 * ant script for building
+* code generation script. (creating the json classes for hand atm)
